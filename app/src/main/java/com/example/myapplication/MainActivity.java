@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         // 이성현의 기능 구현
 
         // 테스트의 기능 구현
+
+        // 이성현 브랜치의 기능 구현
         
     }
 }
