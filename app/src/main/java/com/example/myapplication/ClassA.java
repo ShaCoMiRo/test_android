@@ -6,5 +6,6 @@ public class ClassA {
 
     void funcA1() {
         int a = 1;
+        int b = 3;
     }
 }
