@@ -4,5 +4,7 @@ public class ClassA {
 
     ClassA() {}
 
-    void funcA1() {}
+    void funcA1() {
+        int a = 1;
+    }
 }
